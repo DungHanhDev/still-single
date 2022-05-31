@@ -9,7 +9,7 @@ const CONFIG = {
     title: 'Làm người yêu tớ nha 🥰',
     desc: '',
     btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    btnNo: 'Không nhaaa :3',
     question: 'Cho tớ biết lí do đi',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu',
